@@ -30,7 +30,6 @@ img {
 	font-size: 160px;
 	text-align: center;
 	text-shadow: 1px 1px 3px rgba(109, 109, 109, 0.541);
-	backface-visibility: hidden;
 	font-weight: 300;
 }
 
